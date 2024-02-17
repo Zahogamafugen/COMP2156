@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Comp2156 lab exercise JS",
   "main": "index.js",
+  "homepage": "https://zahogamafugen.github.io/COMP2156/"
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
